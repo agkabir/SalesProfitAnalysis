@@ -8,4 +8,4 @@ CSV dump of an Excel spreadsheet. PySpark/Python are used to prepare a database,
 
 ## Author
 
-- Linked In - [Alamgir Kabir](https://www.linkedin.com/in/mdagkabir)
+- Linked In - [Alamgir Kabir](https://www.linkedin.com/in/agkabir)
